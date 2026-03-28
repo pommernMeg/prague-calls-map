@@ -101,6 +101,22 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    12.920561,
+                    50.83736
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Chemnitz",
+                "url": "https://bannergress.com/banner/prague-calls-chemnitz-f780",
+                "picture": "https://api.bannergress.com/bnrs/pictures/a103827a2caa839d6a35db9dad377dc3"
+            },
+            "id": "f780"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     11.916913,
                     50.311222
                 ],
@@ -320,6 +336,22 @@
                 "picture": "https://api.bannergress.com/bnrs/pictures/774332fcf424ec3d6b873217a9ac426b"
             },
             "id": "c1ae"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    7.607652,
+                    47.558907
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "ENL Prague calls Basel",
+                "url": "https://bannergress.com/banner/enl-prague-calls-basel-ecce",
+                "picture": "https://api.bannergress.com/bnrs/pictures/eaf0c932bc8ced0472e4bb122a1c2c33"
+            },
+            "id": "ecce"
         },
         {
             "type": "Feature",
