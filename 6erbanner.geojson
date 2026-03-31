@@ -1,39 +1,469 @@
 {
-    "included":[
-        "prague-calls-prague-3019",
-        "prague-calls-newcastle-6a82",
-        "prague-calls-sunderland-160f",
-        "prague-calls-lauda-bf94",
-        "prague-calls-warsaw-7761",
-        "prague-calls-königshofen-d6ed",
-        "prague-calls-hof-ea6e",
-        "prague-calls-beijing-1f7d",
-        "prague-calls-roudnice-4728",
-        "prague-calls-brno-ee73",
-        "prague-calls-ostrava-4e26",
-        "prague-calls-pardubice-4424",
-        "prague-calls-olomouc-55b7",
-        "prague-calls-zlin-6db8",
-        "prague-calls-plzen-cbd8",
-        "prague-calls-jihlava-986d",
-        "prague-calls-liberec-71c3",
-        "prague-calls-halle-saale-98ab",
-        "prague-calls-bad-mergentheim-e417",
-        "2s-prague-calls-stabia-c1ae",
-        "prague-calls-hradec-kralove-faf0",
-        "prague-calls-karlovy-vary-60e7",
-        "prague-calls-ceske-budejovice-7fb6",
-        "prague-calls-usti-nad-labem-e1b2",
-        "prague-calls-chemnitz-f780",
-        "enl-prague-calls-basel-ecce",
-        "prague-calls-hexham-b1e8",
-        "prague-calls-carlisle-cbdb",
-        "prague-calls-hamburg-599b"
-    ],
-    "excluded":[
-        "lisboa-gamma-prague-dd9d"
-    ],
-    "queries": [
-        "Prague calls"
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    14.429718,
+                    50.079798
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Prague",
+                "url": "https://bannergress.com/banner/prague-calls-prague-3019",
+                "picture": "https://api.bannergress.com/bnrs/pictures/86eb1a82879b9b06c300d30910134f05"
+            },
+            "id": "3019"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -2.101065,
+                    54.971121
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Hexham",
+                "url": "https://bannergress.com/banner/prague-calls-hexham-b1e8",
+                "picture": "https://api.bannergress.com/bnrs/pictures/5c27abe14c46ed271d06e7a45136ff18"
+            },
+            "id": "b1e8"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -1.617411,
+                    54.969069
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Newcastle",
+                "url": "https://bannergress.com/banner/prague-calls-newcastle-6a82",
+                "picture": "https://api.bannergress.com/bnrs/pictures/5e30c79927580d7435d5983ae1633639"
+            },
+            "id": "6a82"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -1.381064,
+                    54.904591
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Sunderland",
+                "url": "https://bannergress.com/banner/prague-calls-sunderland-160f",
+                "picture": "https://api.bannergress.com/bnrs/pictures/361e3385b53fb8443fe77f22b9c498da"
+            },
+            "id": "160f"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -2.937559,
+                    54.894825
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Carlisle",
+                "url": "https://bannergress.com/banner/prague-calls-carlisle-cbdb",
+                "picture": "https://api.bannergress.com/bnrs/pictures/52412b7a7561fe91177df4dff2a85a3e"
+            },
+            "id": "cbdb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    10.012957,
+                    53.558793
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Hamburg",
+                "url": "https://bannergress.com/banner/prague-calls-hamburg-599b",
+                "picture": "https://api.bannergress.com/bnrs/pictures/04834e9b472931cf3584bc6aa6adfa86"
+            },
+            "id": "599b"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    9.707306,
+                    49.570576
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Lauda",
+                "url": "https://bannergress.com/banner/prague-calls-lauda-bf94",
+                "picture": "https://api.bannergress.com/bnrs/pictures/477b2153e04cb1efd4c83bbec394cae9"
+            },
+            "id": "bf94"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    21.010707,
+                    52.229953
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Warsaw",
+                "url": "https://bannergress.com/banner/prague-calls-warsaw-7761",
+                "picture": "https://api.bannergress.com/bnrs/pictures/f729dccfdf7ab0b2e391c6d5ee6340bf"
+            },
+            "id": "7761"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    9.724772,
+                    49.545959
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Königshofen",
+                "url": "https://bannergress.com/banner/prague-calls-königshofen-d6ed",
+                "picture": "https://api.bannergress.com/bnrs/pictures/856185fe8791169fd39c94932e8e6282"
+            },
+            "id": "d6ed"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    12.920561,
+                    50.83736
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Chemnitz",
+                "url": "https://bannergress.com/banner/prague-calls-chemnitz-f780",
+                "picture": "https://api.bannergress.com/bnrs/pictures/a103827a2caa839d6a35db9dad377dc3"
+            },
+            "id": "f780"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    11.916913,
+                    50.311222
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Hof",
+                "url": "https://bannergress.com/banner/prague-calls-hof-ea6e",
+                "picture": "https://api.bannergress.com/bnrs/pictures/344db73de274c1940cf2000b71f83d0d"
+            },
+            "id": "ea6e"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    116.484787,
+                    39.96933
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Beijing",
+                "url": "https://bannergress.com/banner/prague-calls-beijing-1f7d",
+                "picture": "https://api.bannergress.com/bnrs/pictures/9c51b6c5a48a070fb9c4b23f1c1ddd78"
+            },
+            "id": "1f7d"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    14.255493,
+                    50.422858
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Roudnice",
+                "url": "https://bannergress.com/banner/prague-calls-roudnice-4728",
+                "picture": "https://api.bannergress.com/bnrs/pictures/c3cfb4110c0b23c0b56f7ccbcacc4c59"
+            },
+            "id": "4728"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.608787,
+                    49.1946
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Brno",
+                "url": "https://bannergress.com/banner/prague-calls-brno-ee73",
+                "picture": "https://api.bannergress.com/bnrs/pictures/24ed6e24dcf0cfbc7cd2853c0055f884"
+            },
+            "id": "ee73"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    18.286741,
+                    49.830338
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Ostrava",
+                "url": "https://bannergress.com/banner/prague-calls-ostrava-4e26",
+                "picture": "https://api.bannergress.com/bnrs/pictures/95a5e6f7d697b9f1ae80ba1d9ac72a6e"
+            },
+            "id": "4e26"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    15.77898,
+                    50.03853
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Pardubice",
+                "url": "https://bannergress.com/banner/prague-calls-pardubice-4424",
+                "picture": "https://api.bannergress.com/bnrs/pictures/57fe3b5b9d54083983f0d59f1a307d57"
+            },
+            "id": "4424"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    17.252243,
+                    49.593965
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Olomouc",
+                "url": "https://bannergress.com/banner/prague-calls-olomouc-55b7",
+                "picture": "https://api.bannergress.com/bnrs/pictures/e5dfbcb5ca41166fa64160d6f36886c1"
+            },
+            "id": "55b7"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    17.667454,
+                    49.22638
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Zlin",
+                "url": "https://bannergress.com/banner/prague-calls-zlin-6db8",
+                "picture": "https://api.bannergress.com/bnrs/pictures/bda647c07a07a9b607474d1ecfd3e867"
+            },
+            "id": "6db8"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    13.377347,
+                    49.74785
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Plzen",
+                "url": "https://bannergress.com/banner/prague-calls-plzen-cbd8",
+                "picture": "https://api.bannergress.com/bnrs/pictures/d123a56c8e73da96d38197d9054d683b"
+            },
+            "id": "cbd8"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    15.591718,
+                    49.39488
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Jihlava",
+                "url": "https://bannergress.com/banner/prague-calls-jihlava-986d",
+                "picture": "https://api.bannergress.com/bnrs/pictures/c9621db20c65b236ac4da499aa0f0ddc"
+            },
+            "id": "986d"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    15.057965,
+                    50.769224
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Liberec",
+                "url": "https://bannergress.com/banner/prague-calls-liberec-71c3",
+                "picture": "https://api.bannergress.com/bnrs/pictures/a5177a7ede275d4d96c0a4326931ab58"
+            },
+            "id": "71c3"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    11.984219,
+                    51.472491
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Halle (Saale)",
+                "url": "https://bannergress.com/banner/prague-calls-halle-saale-98ab",
+                "picture": "https://api.bannergress.com/bnrs/pictures/5305ca85155656925bdc03e714a633b3"
+            },
+            "id": "98ab"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    9.772952,
+                    49.489415
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Bad Mergentheim",
+                "url": "https://bannergress.com/banner/prague-calls-bad-mergentheim-e417",
+                "picture": "https://api.bannergress.com/bnrs/pictures/5475224ef6401104cba961f26f87b179"
+            },
+            "id": "e417"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    14.494847,
+                    40.705913
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "#2S Prague calls Stabia",
+                "url": "https://bannergress.com/banner/2s-prague-calls-stabia-c1ae",
+                "picture": "https://api.bannergress.com/bnrs/pictures/774332fcf424ec3d6b873217a9ac426b"
+            },
+            "id": "c1ae"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    7.607652,
+                    47.558907
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "ENL Prague calls Basel",
+                "url": "https://bannergress.com/banner/enl-prague-calls-basel-ecce",
+                "picture": "https://api.bannergress.com/bnrs/pictures/eaf0c932bc8ced0472e4bb122a1c2c33"
+            },
+            "id": "ecce"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    15.831454,
+                    50.208772
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Hradec Kralove",
+                "url": "https://bannergress.com/banner/prague-calls-hradec-kralove-faf0",
+                "picture": "https://api.bannergress.com/bnrs/pictures/2a89fc7b8a41dd797a8a2e738320a98d"
+            },
+            "id": "faf0"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    12.866868,
+                    50.230167
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Karlovy Vary",
+                "url": "https://bannergress.com/banner/prague-calls-karlovy-vary-60e7",
+                "picture": "https://api.bannergress.com/bnrs/pictures/1e3c458f8658dd0a8b8d59f22e7a3805"
+            },
+            "id": "60e7"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    14.475405,
+                    48.975108
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Ceske Budejovice",
+                "url": "https://bannergress.com/banner/prague-calls-ceske-budejovice-7fb6",
+                "picture": "https://api.bannergress.com/bnrs/pictures/48f06d184b00e8b5ad581043f63536aa"
+            },
+            "id": "7fb6"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    14.040941,
+                    50.659103
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Usti nad Labem",
+                "url": "https://bannergress.com/banner/prague-calls-usti-nad-labem-e1b2",
+                "picture": "https://api.bannergress.com/bnrs/pictures/ea1cd2dda01277742f9c1eb5bf43f850"
+            },
+            "id": "e1b2"
+        }
     ]
 }
