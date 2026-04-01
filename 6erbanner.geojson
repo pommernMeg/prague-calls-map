@@ -69,6 +69,22 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    -1.366443,
+                    54.919021
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Roker",
+                "url": "https://bannergress.com/banner/prague-calls-roker-4af9",
+                "picture": "https://api.bannergress.com/bnrs/pictures/5eb11558eca9736ae1ca80506620492b"
+            },
+            "id": "4af9"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     -2.937559,
                     54.894825
                 ],
@@ -160,6 +176,22 @@
                 "picture": "https://api.bannergress.com/bnrs/pictures/a103827a2caa839d6a35db9dad377dc3"
             },
             "id": "f780"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    4.486767,
+                    51.022887
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Mechelen",
+                "url": "https://bannergress.com/banner/prague-calls-mechelen-df7d",
+                "picture": "https://api.bannergress.com/bnrs/pictures/cc35777fda339adeb109aba4a4c30db3"
+            },
+            "id": "df7d"
         },
         {
             "type": "Feature",
