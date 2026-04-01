@@ -165,6 +165,22 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    10.79194,
+                    51.837384
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Wernigerode",
+                "url": "https://bannergress.com/banner/prague-calls-wernigerode-26b5",
+                "picture": "https://api.bannergress.com/bnrs/pictures/b6d31f7948a8c2a833bc8bb7d6caf948"
+            },
+            "id": "26b5"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     12.920561,
                     50.83736
                 ],
