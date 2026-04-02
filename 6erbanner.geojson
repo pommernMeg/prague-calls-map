@@ -181,6 +181,22 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    17.036067,
+                    51.096538
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Wrocław",
+                "url": "https://bannergress.com/banner/prague-calls-wrocław-f9a4",
+                "picture": "https://api.bannergress.com/bnrs/pictures/416d2c820ea1146fbce8200025016b1e"
+            },
+            "id": "f9a4"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     12.920561,
                     50.83736
                 ],
