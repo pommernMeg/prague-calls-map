@@ -69,22 +69,6 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
-                    -1.366443,
-                    54.919021
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "name": "Prague calls Roker",
-                "url": "https://bannergress.com/banner/prague-calls-roker-4af9",
-                "picture": "https://api.bannergress.com/bnrs/pictures/5eb11558eca9736ae1ca80506620492b"
-            },
-            "id": "4af9"
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "coordinates": [
                     -2.937559,
                     54.894825
                 ],
@@ -245,6 +229,22 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    10.893288,
+                    48.377435
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Augsburg",
+                "url": "https://bannergress.com/banner/prague-calls-augsburg-471d",
+                "picture": "https://api.bannergress.com/bnrs/pictures/d7e32a5ec361c194af174673e8ad3c49"
+            },
+            "id": "471d"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     116.484787,
                     39.96933
                 ],
@@ -304,6 +304,22 @@
                 "picture": "https://api.bannergress.com/bnrs/pictures/95a5e6f7d697b9f1ae80ba1d9ac72a6e"
             },
             "id": "4e26"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    15.123021,
+                    50.149416
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Podebrady",
+                "url": "https://bannergress.com/banner/prague-calls-podebrady-59be",
+                "picture": "https://api.bannergress.com/bnrs/pictures/a3e181c2f8da6acbe31f25916a4d50d5"
+            },
+            "id": "59be"
         },
         {
             "type": "Feature",
@@ -448,6 +464,22 @@
                 "picture": "https://api.bannergress.com/bnrs/pictures/774332fcf424ec3d6b873217a9ac426b"
             },
             "id": "c1ae"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    7.443184,
+                    46.948094
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "ENL Prague calls Bern",
+                "url": "https://bannergress.com/banner/enl-prague-calls-bern-294d",
+                "picture": "https://api.bannergress.com/bnrs/pictures/c1593080a30d5a2fd2fbdb52ed39b072"
+            },
+            "id": "294d"
         },
         {
             "type": "Feature",
