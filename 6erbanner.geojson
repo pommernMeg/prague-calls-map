@@ -85,6 +85,22 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    11.340474,
+                    44.495316
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Bologna",
+                "url": "https://bannergress.com/banner/prague-calls-bologna-cf88",
+                "picture": "https://api.bannergress.com/bnrs/pictures/4f4338f0b130b03c83dc6d6424040d15"
+            },
+            "id": "cf88"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     10.012957,
                     53.558793
                 ],
@@ -213,6 +229,22 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    10.918418,
+                    44.657004
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Modena",
+                "url": "https://bannergress.com/banner/prague-calls-modena-43ef",
+                "picture": "https://api.bannergress.com/bnrs/pictures/ca4889ed0f355f7771d2d7e9fed2a55b"
+            },
+            "id": "43ef"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     11.916913,
                     50.311222
                 ],
@@ -256,6 +288,22 @@
                 "picture": "https://api.bannergress.com/bnrs/pictures/9c51b6c5a48a070fb9c4b23f1c1ddd78"
             },
             "id": "1f7d"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    139.651669,
+                    35.441917
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Yokohama",
+                "url": "https://bannergress.com/banner/prague-calls-yokohama-c038",
+                "picture": "https://api.bannergress.com/bnrs/pictures/68ff7a2e36dde83f8abb06b140cda01f"
+            },
+            "id": "c038"
         },
         {
             "type": "Feature",
