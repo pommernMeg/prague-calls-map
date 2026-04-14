@@ -165,6 +165,22 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    6.341709,
+                    52.446094
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Lemelerveld",
+                "url": "https://bannergress.com/banner/prague-calls-lemelerveld-2fc5",
+                "picture": "https://api.bannergress.com/bnrs/pictures/10a46e120a9bbae38fd2a43c52910df0"
+            },
+            "id": "2fc5"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     13.380383,
                     52.516489
                 ],
@@ -197,6 +213,22 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    5.374533,
+                    52.201849
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Amersfoort",
+                "url": "https://bannergress.com/banner/prague-calls-amersfoort-a47e",
+                "picture": "https://api.bannergress.com/bnrs/pictures/9490f1ae33b35326188b68e08b27b8f4"
+            },
+            "id": "a47e"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     17.036067,
                     51.096538
                 ],
@@ -208,6 +240,22 @@
                 "picture": "https://api.bannergress.com/bnrs/pictures/416d2c820ea1146fbce8200025016b1e"
             },
             "id": "f9a4"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -8.722433,
+                    42.239329
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Vigo",
+                "url": "https://bannergress.com/banner/prague-calls-vigo-f5d9",
+                "picture": "https://api.bannergress.com/bnrs/pictures/d6f0399eb30cbebece248dcc76e59b12"
+            },
+            "id": "f5d9"
         },
         {
             "type": "Feature",
