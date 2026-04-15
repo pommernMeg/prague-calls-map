@@ -69,6 +69,22 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    -1.366443,
+                    54.919021
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Roker",
+                "url": "https://bannergress.com/banner/prague-calls-roker-4af9",
+                "picture": "https://api.bannergress.com/bnrs/pictures/1ad59b552bd59456db84539d58b8e915"
+            },
+            "id": "4af9"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     -2.937559,
                     54.894825
                 ],
@@ -96,6 +112,22 @@
                 "picture": "https://api.bannergress.com/bnrs/pictures/4f4338f0b130b03c83dc6d6424040d15"
             },
             "id": "cf88"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    19.105682,
+                    50.283092
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Sosnowiec",
+                "url": "https://bannergress.com/banner/prague-calls-sosnowiec-4a14",
+                "picture": "https://api.bannergress.com/bnrs/pictures/0d3bd1389c1baaa3fe8cc72d8bebef86"
+            },
+            "id": "4a14"
         },
         {
             "type": "Feature",
