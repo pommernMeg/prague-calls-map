@@ -85,6 +85,22 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    -3.029668,
+                    43.330213
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Portugalete",
+                "url": "https://bannergress.com/banner/prague-calls-portugalete-9427",
+                "picture": "https://api.bannergress.com/bnrs/pictures/7d41d80854f914d48395b56d3cf88d73"
+            },
+            "id": "9427"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     -2.937559,
                     54.894825
                 ],
@@ -101,6 +117,22 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    6.462101,
+                    52.36577
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Nijverdal",
+                "url": "https://bannergress.com/banner/prague-calls-nijverdal-31dd",
+                "picture": "https://api.bannergress.com/bnrs/pictures/43934f73d749612096acf39c20415e77"
+            },
+            "id": "31dd"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     11.340474,
                     44.495316
                 ],
@@ -112,6 +144,22 @@
                 "picture": "https://api.bannergress.com/bnrs/pictures/4f4338f0b130b03c83dc6d6424040d15"
             },
             "id": "cf88"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    6.948759,
+                    50.936439
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Cologne",
+                "url": "https://bannergress.com/banner/prague-calls-cologne-bf1f",
+                "picture": "https://api.bannergress.com/bnrs/pictures/b4ad53f8e3d6c9fcaf145a39bd6dd0a8"
+            },
+            "id": "bf1f"
         },
         {
             "type": "Feature",
@@ -165,6 +213,22 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    19.945398,
+                    50.057003
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Cracow",
+                "url": "https://bannergress.com/banner/prague-calls-cracow-5014",
+                "picture": "https://api.bannergress.com/bnrs/pictures/3f73de1bde368b0578721352f76076aa"
+            },
+            "id": "5014"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     21.010707,
                     52.229953
                 ],
@@ -208,6 +272,22 @@
                 "picture": "https://api.bannergress.com/bnrs/pictures/10a46e120a9bbae38fd2a43c52910df0"
             },
             "id": "2fc5"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    25.276895,
+                    54.714969
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prague calls Vilnius",
+                "url": "https://bannergress.com/banner/prague-calls-vilnius-87f0",
+                "picture": "https://api.bannergress.com/bnrs/pictures/c85a8ba77d960aecbbcc0e1d94ab976a"
+            },
+            "id": "87f0"
         },
         {
             "type": "Feature",
@@ -301,7 +381,7 @@
             "properties": {
                 "name": "Prague calls Chemnitz",
                 "url": "https://bannergress.com/banner/prague-calls-chemnitz-f780",
-                "picture": "https://api.bannergress.com/bnrs/pictures/a103827a2caa839d6a35db9dad377dc3"
+                "picture": "https://api.bannergress.com/bnrs/pictures/a924e720e4159b96d15c0cdcd75b5800"
             },
             "id": "f780"
         },
@@ -397,7 +477,7 @@
             "properties": {
                 "name": "Prague calls Yokohama",
                 "url": "https://bannergress.com/banner/prague-calls-yokohama-c038",
-                "picture": "https://api.bannergress.com/bnrs/pictures/68ff7a2e36dde83f8abb06b140cda01f"
+                "picture": "https://api.bannergress.com/bnrs/pictures/9f576abad8687c5695dfa0b8a6117180"
             },
             "id": "c038"
         },
